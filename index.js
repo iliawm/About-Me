@@ -14,7 +14,7 @@ function whatsapp() {
     window.alert('I DONT HAVE Whats app yet but u can use other ways🙏');
 }
 
-function telegram() {
+function Telegram() {
     window.location.href = 'https://t.me/just_a_programmer';
 }
 
